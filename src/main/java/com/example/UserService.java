@@ -1,10 +1,8 @@
-package main.java.com.example;
+package com.example;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.sql.Statement;
 
 public class UserService {
 
